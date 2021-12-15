@@ -10,7 +10,7 @@ o Create simple unit conversion program
 
 • Shall demonstrate basic understanding of Raspberry Pi I/O
 o Configure LED on breadboard 
--mostly done (we still need to add the LED and resistor)
+-Done 
 o Blink LED
 -how often will it blink?
 -What color will the LED be?
