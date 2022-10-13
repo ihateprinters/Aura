@@ -6,7 +6,8 @@ Phase 1
 
 • Shall demonstrate basic understanding of Python coding
 o Create simple unit conversion program
--Select three unit conversions (Examples: Miles to Km, LBS to Kg, celcius to ferhenheit, etc)
+-Select three unit conversions (Examples: Miles to Km, LBS to Kg, celcius to ferhenheit, etc), List the three unit conversions you chose below.
+
 
 • Shall demonstrate basic understanding of Raspberry Pi I/O
 o Configure LED on breadboard 
@@ -14,6 +15,8 @@ o Configure LED on breadboard
 o Blink LED
 -how often will it blink?
 -What color will the LED be?
+
+
 
 • Shall demonstrate basic understanding of Pygame
 o Add a random rectangle to the center of the game screen
