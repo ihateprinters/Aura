@@ -26,3 +26,7 @@ o Add random ball to the top-left corner of the game screen
 -Color? position on screen (x,y)? Size? 
 o Add text to the top-right of the game screen
 -What will it say? What font? What color?
+
+Rectangle: Blue, (6, 9), 420px
+Ball: Red, (70, 120), 50px
+Text: "I'm a Virgo." Times New Roman. Purple.
